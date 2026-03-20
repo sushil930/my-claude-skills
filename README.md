@@ -1,21 +1,18 @@
 # 🧠 My Claude Skills
 
-A personal collection of custom **Claude AI Skills** built by [Sushil Patel](https://github.com/sushil930). These skills supercharge Claude with domain-specific intelligence — from prompt engineering to UI design to product docs.
+A personal collection of custom **Claude AI Skills** built by [Sushil Patel](https://github.com/sushil930). These skills supercharge Claude with domain-specific intelligence — crafted from scratch, not imported.
 
 > **What are Claude Skills?**  
 > Skills are `SKILL.md` files that give Claude specialized knowledge, frameworks, and behavior rules for specific tasks. Claude uses them automatically when relevant.
 
 ---
 
-## 📦 Skills in this Repo
+## 📦 My Skills
 
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [prompt-paglu](./skills/prompt-paglu/SKILL.md) | World-class AI prompt engineering — craft, refine & debug prompts for any LLM | ✅ Active |
 | [prd-maker](./skills/prd-maker/SKILL.md) | Generate professional Product Requirements Documents for any feature or product | ✅ Active |
-| [ui-ux-pro-max](./skills/ui-ux-pro-max/SKILL.md) | UI/UX design intelligence: 50+ styles, 161 palettes, 57 font pairings, 10 stacks | ✅ Active |
-| [vercel-react-best-practices](./skills/vercel-react-best-practices/SKILL.md) | React & Next.js performance optimization — 62 rules across 8 categories | ✅ Active |
-| [vercel-react-native-skills](./skills/vercel-react-native-skills/SKILL.md) | React Native & Expo best practices for performant mobile apps | ✅ Active |
 
 ---
 
@@ -35,13 +32,7 @@ my-claude-skills/
 └── skills/
     ├── prompt-paglu/
     │   └── SKILL.md
-    ├── prd-maker/
-    │   └── SKILL.md
-    ├── ui-ux-pro-max/
-    │   └── SKILL.md
-    ├── vercel-react-best-practices/
-    │   └── SKILL.md
-    └── vercel-react-native-skills/
+    └── prd-maker/
         └── SKILL.md
 ```
 
